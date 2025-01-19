@@ -1,5 +1,5 @@
 A simple Music Player 
-# Project part of the Zero to Mastery cours 
+# Project part of the Zero to Mastery course
 
 ----------------------------------------------
 # Technologies used : 
